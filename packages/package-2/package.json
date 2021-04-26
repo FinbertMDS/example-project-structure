@@ -8,6 +8,6 @@
   "author": "Jake Ginnivan <jake@ginnivan.net>",
   "license": "MIT",
   "dependencies": {
-    "package-1": "1.0.0"
+    "@huynv/package-1": "1.0.0"
   }
 }
